@@ -24,7 +24,7 @@ function App() {
 	}, [shape, application]);
 
 	return (
-		<div className="h-full w-full p-8 overflow-y-scroll text-white bg-background">
+		<div className="h-full w-full p-8 overflow-y-scroll bg-background">
 			<div className='border-slate-800 border-2 rounded-lg p-2 flex flex-col gap-4 my-8'>
 				<h1 className='text-3xl font-bold'>Nanomaterial Properties</h1>
 				<div className='flex flex-row gap-2 items-center w-fit'>
