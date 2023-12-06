@@ -57,3 +57,7 @@ Then we calculate the **% of surface atoms and bulk atoms** for the **specified 
 ### Outputs
 
 You may interact with the interface [here](https://nano-assignment.vercel.app/).
+
+### Contributors
+Shreyas Chavan 2001CS67
+Vinnakota Tarun Vikas 2001CS76
